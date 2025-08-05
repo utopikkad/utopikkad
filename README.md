@@ -20,11 +20,9 @@
     <a href="https://git-scm.com" target="_blank">
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
     </a>
+    [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
     <a href="https://www.docker.com" target="_blank">
         <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-    </a>
-    <a href="https://www.npmjs.com" target="_blank">
-        <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" alt="NPM" />
     </a>
     <a href="https://www.ansible.com/" target="_blank">
       <img src="https://img.shields.io/badge/Ansible-%231A1918?logo=ansible&logoColor=white" alt="Ansible" />
