@@ -44,6 +44,9 @@
        <a href="https://circleci.com" target="_blank">
       <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff" alt="CircleCI" />
     </a>
+         <a href="https://github.com" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="Github Actions" />
+    </a>
     </br>
 </div>
  </br>
