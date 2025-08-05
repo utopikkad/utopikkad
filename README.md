@@ -2,6 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Kaddour+MESSABIH;je+suis+concepteur+devops" alt="Typing SVG" /></a>
 </p> 
 
+<p align="justify">
+  Après une vingtaine d'années passées dans le jeu vidéo, je décide de me réorienter vers les displines/cultures liées au DevOps. Environ trois ans plus tard, j'ai pu participer à des missions (exclusivement sur Azure) dans des environnements 
+  agiles sur des projets devops. Ma passion pour ce domaine est toujours intacte.
+</p>
+
 📈 Statistiques GitHub
 
 <!-- lien : https://github.com/anuraghazra/github-readme-stats -->
