@@ -40,6 +40,10 @@
        <a href="https://vercel.com" target="_blank">
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" />
     </a>
+        </a>
+       <a href="https://circleci.com" target="_blank">
+      <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff" alt="CircleCI" />
+    </a>
     </br>
 </div>
  </br>
