@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Kaddour+MESSABIH;je+suis+concepteur+devops" alt="Typing SVG" /></a>
 </p> 
-## 📈 Statistiques GitHub
+
+##📈 Statistiques GitHub
 
 <!-- lien : https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
