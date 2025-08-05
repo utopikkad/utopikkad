@@ -7,6 +7,12 @@
   agiles sur des projets devops. Ma passion pour ce domaine est toujours intacte.
 </p>
 
+<p align="right">
+  <a href="https://github.com/utopikkad">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=utopikkad">
+  </a>
+</p>
+
 📈 Statistiques GitHub
 
 <!-- lien : https://github.com/anuraghazra/github-readme-stats -->
