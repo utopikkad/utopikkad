@@ -12,7 +12,6 @@
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=utopikkad">
   </a>
 </p>
-https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white
 <div>
     <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
  </br>
@@ -28,6 +27,9 @@ https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoC
     </a>
     <a href="https://www.terraform.io/" target="_blank">
       <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white" alt="Terraform" />
+    </a>
+     <a href="https://azure.microsoft.com/fr-fr/get-started/azure-portal/" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="Azure" />
     </a>
     </br>
 </div>
