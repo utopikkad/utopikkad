@@ -32,12 +32,15 @@
     <a href="https://www.terraform.io/" target="_blank">
       <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white" alt="Terraform" />
     </a>
+   <a href="[https://www.terraform.io/](https://azure.microsoft.com/fr-fr/get-started/azure-portal/)" target="_blank">
+      <img src="https://img.shields.io/badge/Azure-%235835CC?logo=azure&logoColor=white" alt="Azure" />
+    </a>
     </br>
 </div>
  </br>
   </br>
 📈 Statistiques GitHub
-
+ </br>
 <!-- lien : https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=utopikkad&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats utopikkad" />
