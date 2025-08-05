@@ -12,7 +12,7 @@
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=utopikkad">
   </a>
 </p>
-
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 <div>
     <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
  </br>
@@ -20,7 +20,6 @@
     <a href="https://git-scm.com" target="_blank">
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
     </a>
-    [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
     <a href="https://www.docker.com" target="_blank">
         <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
     </a>
