@@ -40,12 +40,17 @@
        <a href="https://vercel.com" target="_blank">
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" />
     </a>
-        </a>
        <a href="https://circleci.com" target="_blank">
       <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff" alt="CircleCI" />
     </a>
-         <a href="https://github.com" target="_blank">
+      <a href="https://github.com" target="_blank">
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="Github Actions" />
+    </a>
+      <a href="https://kubernetes.io" target="_blank">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes" />
+    </a>
+    <a href="https://kubernetes.io" target="_blank">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes" />
     </a>
     </br>
 </div>
