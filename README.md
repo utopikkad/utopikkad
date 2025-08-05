@@ -36,6 +36,10 @@
        <a href="https://azure.microsoft.com/fr-fr/get-started/azure-portal/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure" />
     </a>
+      </a>
+       <a href="https://vercel.com" target="_blank">
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" />
+    </a>
     </br>
 </div>
  </br>
