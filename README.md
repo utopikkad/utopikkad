@@ -49,8 +49,8 @@
       <a href="https://kubernetes.io" target="_blank">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes" />
     </a>
-    <a href="https://kubernetes.io" target="_blank">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes" />
+    <a href="https://python.org" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
     </a>
     </br>
 </div>
