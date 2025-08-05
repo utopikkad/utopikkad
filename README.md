@@ -15,7 +15,7 @@
 <div>
     <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
  </br>
-    • DevOps / CI-CD / Gestion de conteneurs : 
+    • DevOps / CI-CD / Gestion de conteneurs/ Cloud : 
     <a href="https://git-scm.com" target="_blank">
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
     </a>
@@ -28,8 +28,8 @@
     <a href="https://www.terraform.io/" target="_blank">
       <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white" alt="Terraform" />
     </a>
-     <a href="https://azure.microsoft.com/fr-fr/get-started/azure-portal/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="Azure" />
+     <a href="https://aws.amazon.com/" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="Aws" />
     </a>
     </br>
 </div>
