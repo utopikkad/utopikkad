@@ -70,4 +70,4 @@
 </br>
 </br>
 - 🔗 <a href="http://www.linkedin.com/in/kadmessabih" target="blank">Linkedin</a></br>
-- 🪪 <a href="https://https://utopikkad.github.io" target="blank">Portfolio</a>
+- 🪪 <a href="https://https://utopikkad.github.io/" target="blank">Portfolio</a>
