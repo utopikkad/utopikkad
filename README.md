@@ -31,6 +31,9 @@
      <a href="https://aws.amazon.com/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="Aws" />
     </a>
+       <a href="https://azure.microsoft.com/fr-fr/get-started/azure-portal/" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure" />
+    </a>
     </br>
 </div>
  </br>
