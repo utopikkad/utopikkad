@@ -52,6 +52,12 @@
     <a href="https://python.org" target="_blank">
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
     </a>
+      <a href="https://linux.org" target="_blank">
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+    </a>
+      <a href="https://linux.org" target="_blank">
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+    </a>
     </br>
 </div>
  </br>
