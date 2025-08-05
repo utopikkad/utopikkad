@@ -55,9 +55,6 @@
       <a href="https://linux.org" target="_blank">
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
     </a>
-      <a href="https://linux.org" target="_blank">
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-    </a>
     </br>
 </div>
  </br>
