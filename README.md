@@ -12,7 +12,7 @@
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=utopikkad">
   </a>
 </p>
-[![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#)
+https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white
 <div>
     <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
  </br>
