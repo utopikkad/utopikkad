@@ -16,6 +16,7 @@
     <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
  </br>
     • DevOps / CI-CD / Gestion de conteneurs/ Cloud : 
+</br>
     <a href="https://git-scm.com" target="_blank">
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
     </a>
