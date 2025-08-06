@@ -61,6 +61,9 @@
       <a href="https://azure.microsoft.com/fr-fr/products/devops" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" alt="Azure devops" />
     </a>
+        <a href="https://www.atlassian.com/fr/software/jira" target="_blank">
+      <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
+    </a>
     </br>
 </div>
  </br>
