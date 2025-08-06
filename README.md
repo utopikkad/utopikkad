@@ -58,6 +58,9 @@
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VScode" />
     </a>
+      <a href="https://azure.microsoft.com/fr-fr/products/devops" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" alt="Azure devops" />
+    </a>
     </br>
 </div>
  </br>
